@@ -15,6 +15,7 @@ https://github.com/DexterKwok/Track-RapidKL/issues
 - 
 
 ### > Contributors:
+- Eddy Sumantri Flickr (Bus reg)
 - 
 
 Note: Web app currently under development and code not for redistribute.
