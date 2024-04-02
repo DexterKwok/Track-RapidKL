@@ -1496,6 +1496,10 @@
         "vehicle_model": "MAN_A84"
     },
     {
+        "vehicle_id": "WQA1064",
+        "vehicle_model": "MercedesCBC1725"
+    },
+    {
         "vehicle_id": "W5380Q",
         "vehicle_model": "ScaniaK250UB"
     },
@@ -3329,6 +3333,10 @@
     },
     {
         "vehicle_id": "WSW547",
+        "vehicle_model": "ToyotaHiace"
+    },
+    {
+        "vehicle_id": "WC2075D",
         "vehicle_model": "ToyotaHiace"
     },
     {
