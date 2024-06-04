@@ -10,14 +10,10 @@ https://cityrails.info/track/rapidkl/
 
 https://github.com/DexterKwok/Track-RapidKL/issues
 
-### > Sources:
-- data.gov.my (GTFS Data)
-- 
+### > Sources and contributors:
 
-### > Contributors:
-- Eddy Sumantri Flickr (Bus reg)
-- 
+https://cityrails.info/track/contributors.html
 
 Note: Web app currently under development and code not for redistribute.
 
-Last updated: 15 March 2024
+Last updated: 4 June 2024
