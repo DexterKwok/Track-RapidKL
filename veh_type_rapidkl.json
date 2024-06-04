@@ -1500,6 +1500,10 @@
         "vehicle_model": "MercedesCBC1725"
     },
     {
+        "vehicle_id": "WQA7095",
+        "vehicle_model": "MercedesCBC1725"
+    },
+    {
         "vehicle_id": "W5380Q",
         "vehicle_model": "ScaniaK250UB"
     },
@@ -4590,5 +4594,29 @@
     {
         "vehicle_id": "VHB3371",
         "vehicle_model": "VolvoB8L"
+    },
+    {
+        "vehicle_id": "JNU4976",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQB7256",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPK730",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPK903",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNV2241",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNJ807",
+        "vehicle_model": "CWL_SksbusSA12-300"
     }
 ]
