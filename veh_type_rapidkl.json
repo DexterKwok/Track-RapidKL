@@ -480,6 +480,46 @@
         "vehicle_model": "ADLEnviro500"
     },
     {
+        "vehicle_id": "WSW547",
+        "vehicle_model": "DRT_ToyotaHiace"
+    },
+    {
+        "vehicle_id": "WC2075D",
+        "vehicle_model": "DRT_ToyotaHiace"
+    },
+    {
+        "vehicle_id": "VKV401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VKU401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VHV401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VKJ401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VFX401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VGH401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VHM401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VGE401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
         "vehicle_id": "WUU6645",
         "vehicle_model": "KingLongXMQ6121G"
     },
@@ -3336,14 +3376,6 @@
         "vehicle_model": "ScaniaK270UB"
     },
     {
-        "vehicle_id": "WSW547",
-        "vehicle_model": "ToyotaHiace"
-    },
-    {
-        "vehicle_id": "WC2075D",
-        "vehicle_model": "ToyotaHiace"
-    },
-    {
         "vehicle_id": "WPV4536",
         "vehicle_model": "VolvoB7RLE"
     },
@@ -4616,7 +4648,39 @@
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
+        "vehicle_id": "JQC5690",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMT3231",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNE4953",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
         "vehicle_id": "JNJ807",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPM3196",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNV1497",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMV8489",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNC9581",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNB6242",
         "vehicle_model": "CWL_SksbusSA12-300"
     }
 ]
