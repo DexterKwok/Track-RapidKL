@@ -520,6 +520,26 @@
         "vehicle_model": "DRT_GoAutoHigerAce"
     },
     {
+        "vehicle_id": "VGW401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
+        "vehicle_id": "VML2449",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VML2452",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VML2453",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VML3591",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
         "vehicle_id": "WUU6645",
         "vehicle_model": "KingLongXMQ6121G"
     },
@@ -4681,6 +4701,10 @@
     },
     {
         "vehicle_id": "JNB6242",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMT520",
         "vehicle_model": "CWL_SksbusSA12-300"
     }
 ]
