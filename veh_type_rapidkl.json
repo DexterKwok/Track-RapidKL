@@ -480,6 +480,10 @@
         "vehicle_model": "ADLEnviro500"
     },
     {
+        "vehicle_id": "BNG4111",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
         "vehicle_id": "WSW547",
         "vehicle_model": "DRT_ToyotaHiace"
     },
@@ -2672,6 +2676,14 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VH2547",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2049",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "WUT8479",
         "vehicle_model": "ScaniaK270UB"
     },
@@ -4288,6 +4300,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VH4268",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VEL9768",
         "vehicle_model": "VolvoB8L"
     },
@@ -4705,6 +4721,38 @@
     },
     {
         "vehicle_id": "JMT520",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNB3245",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMV8468",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQB7201",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPV7580",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMS8762",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPE8708",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQG6361",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNE290",
         "vehicle_model": "CWL_SksbusSA12-300"
     }
 ]
