@@ -3436,7 +3436,7 @@
         "vehicle_model": "VolvoB7RLE"
     },
     {
-        "vehicle_id": "WPV4583_D",
+        "vehicle_id": "WPV4583",
         "vehicle_model": "VolvoB7RLE"
     },
     {
@@ -4662,14 +4662,6 @@
     {
         "vehicle_id": "VHB3371",
         "vehicle_model": "VolvoB8L"
-    },
-    {
-        "vehicle_id": "WPV4583",
-        "vehicle_model": "VolvoBZL"
-    },
-    {
-        "vehicle_id": "BRV9542",
-        "vehicle_model": "VolvoBZL"
     },
     {
         "vehicle_id": "JNU4976",
