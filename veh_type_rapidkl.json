@@ -512,6 +512,10 @@
         "vehicle_model": "DRT_GoAutoHigerAce"
     },
     {
+        "vehicle_id": "VFM401",
+        "vehicle_model": "DRT_GoAutoHigerAce"
+    },
+    {
         "vehicle_id": "VGH401",
         "vehicle_model": "DRT_GoAutoHigerAce"
     },
@@ -541,6 +545,30 @@
     },
     {
         "vehicle_id": "VML3591",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VMP4555",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VMP4580",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VMP4584",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VMP6096",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VMP6124",
+        "vehicle_model": "DRT_Foton"
+    },
+    {
+        "vehicle_id": "VMP4569",
         "vehicle_model": "DRT_Foton"
     },
     {
@@ -3408,6 +3436,14 @@
         "vehicle_model": "ScaniaK270UB"
     },
     {
+        "vehicle_id": "WYU6166",
+        "vehicle_model": "ScaniaK410IB_staff"
+    },
+    {
+        "vehicle_id": "WYU6266",
+        "vehicle_model": "ScaniaK410IB_staff"
+    },
+    {
         "vehicle_id": "WPV4536",
         "vehicle_model": "VolvoB7RLE"
     },
@@ -3436,7 +3472,7 @@
         "vehicle_model": "VolvoB7RLE"
     },
     {
-        "vehicle_id": "WPV4583_D",
+        "vehicle_id": "WPV4583",
         "vehicle_model": "VolvoB7RLE"
     },
     {
@@ -4304,6 +4340,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VX2919",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VEL9768",
         "vehicle_model": "VolvoB8L"
     },
@@ -4664,39 +4704,55 @@
         "vehicle_model": "VolvoB8L"
     },
     {
-        "vehicle_id": "WPV4583",
-        "vehicle_model": "VolvoBZL"
+        "vehicle_id": "VHB3371",
+        "vehicle_model": "VolvoB8L"
     },
     {
         "vehicle_id": "BRV9542",
         "vehicle_model": "VolvoBZL"
     },
     {
-        "vehicle_id": "JNU4976",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JQB7256",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JPK730",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JPK903",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JNV2241",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JQC5690",
+        "vehicle_id": "JMS8762",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
         "vehicle_id": "JMT3231",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMT520",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMV8468",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JMV8489",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNB3245",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNB6242",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNC9581",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNC9652",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNE290",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNE3056",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
@@ -4708,7 +4764,7 @@
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
-        "vehicle_id": "JPM3196",
+        "vehicle_id": "JNU4976",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
@@ -4716,39 +4772,11 @@
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
-        "vehicle_id": "JMV8489",
+        "vehicle_id": "JNV2241",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
-        "vehicle_id": "JNC9581",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JNB6242",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JMT520",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JNB3245",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JMV8468",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JQB7201",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JPV7580",
-        "vehicle_model": "CWL_SksbusSA12-300"
-    },
-    {
-        "vehicle_id": "JMS8762",
+        "vehicle_id": "JPC4294",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
@@ -4756,19 +4784,63 @@
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
-        "vehicle_id": "JQG6361",
+        "vehicle_id": "JPG4977",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
-        "vehicle_id": "JNE290",
+        "vehicle_id": "JPK3312",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
-        "vehicle_id": "JNC9652",
+        "vehicle_id": "JPK730",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPK903",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPM3196",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPN3751",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
         "vehicle_id": "JPV7562",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JPV7580",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQB7201",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQB7219",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQB7256",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQC5690",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQG6361",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQG6377",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JQT6835",
         "vehicle_model": "CWL_SksbusSA12-300"
     }
 ]
