@@ -480,7 +480,63 @@
         "vehicle_model": "ADLEnviro500"
     },
     {
+        "vehicle_id": "BNG4101",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4102",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4103",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4204",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4105",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4106",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4107",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4108",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4109",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4110",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
         "vehicle_id": "BNG4111",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4112",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4113",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4014",
+        "vehicle_model": "BRT_BYDK9"
+    },
+    {
+        "vehicle_id": "BNG4015",
         "vehicle_model": "BRT_BYDK9"
     },
     {
