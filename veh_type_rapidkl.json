@@ -3168,6 +3168,14 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VAE7147",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAE7157",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VAE7164",
         "vehicle_model": "ScaniaK250UBmrt"
     },
@@ -3184,11 +3192,23 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VAE7564",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VAE7593",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VAF5250",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VAF5339",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF5425",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3200,7 +3220,43 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VAF5438",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF5439",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF5441",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF5442",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VAF5451",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF5461",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF5464",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF7116",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF7134",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAF7146",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3209,6 +3265,14 @@
     },
     {
         "vehicle_id": "VAF7159",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG4673",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG4703",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3228,7 +3292,27 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VAG4725",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG4729",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG4750",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG6349",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VAG8049",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG8051",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3237,6 +3321,10 @@
     },
     {
         "vehicle_id": "VAG8054",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VAG8058",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3260,7 +3348,15 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VAJ3412",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VAJ3415",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2044",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3284,6 +3380,10 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VH2478",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VH2480",
         "vehicle_model": "ScaniaK250UBmrt"
     },
@@ -3296,7 +3396,23 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VH2490",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2491",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VH2494",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2499",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2514",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3309,6 +3425,14 @@
     },
     {
         "vehicle_id": "VH2534",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2537",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH2542",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3360,7 +3484,19 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VH3745",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VH3750",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH3751",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VH3982",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3380,6 +3516,10 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VH4062",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VH4069",
         "vehicle_model": "ScaniaK250UBmrt"
     },
@@ -3396,11 +3536,27 @@
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VH4189",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VK2745",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
+        "vehicle_id": "VK2852",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
         "vehicle_id": "VK2853",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VK2906",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VK2934",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -3413,6 +3569,14 @@
     },
     {
         "vehicle_id": "VK6258",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VK6274",
+        "vehicle_model": "ScaniaK250UBmrt"
+    },
+    {
+        "vehicle_id": "VK6448",
         "vehicle_model": "ScaniaK250UBmrt"
     },
     {
@@ -4872,6 +5036,10 @@
         "vehicle_model": "VolvoB7RLE"
     },
     {
+        "vehicle_id": "VAC5746",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VAC5751",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -4881,6 +5049,10 @@
     },
     {
         "vehicle_id": "VAC5773",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAC5778",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -4912,6 +5084,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VAF5746",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VAF5750",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -4920,11 +5096,23 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VAF5756",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VAF5761",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VAF5762",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VAF5765",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAF5766",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -4972,11 +5160,19 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VAG4892",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VAG4913",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
         "vehicle_id": "VAH9042",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAH9043",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5008,11 +5204,27 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VAJ2854",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAJ2857",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VAJ2869",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
         "vehicle_id": "VAJ2870",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAJ2875",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAJ2876",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5069,6 +5281,10 @@
     },
     {
         "vehicle_id": "VAK962",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VAK967",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5164,6 +5380,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VG8690",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VG8703",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -5173,6 +5393,14 @@
     },
     {
         "vehicle_id": "VG8742",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VG8748",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VG8755",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5204,6 +5432,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VG8917",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VG8934",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -5225,6 +5457,10 @@
     },
     {
         "vehicle_id": "VH1562",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VH1568",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5253,6 +5489,10 @@
     },
     {
         "vehicle_id": "VH4107",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VH4108",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5288,6 +5528,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VH4307",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VH4318",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -5296,7 +5540,19 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VH4335",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VH4356",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VH4544",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VH4557",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5328,6 +5584,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VH4671",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VH4683",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -5352,6 +5612,10 @@
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
+        "vehicle_id": "VH4930",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
         "vehicle_id": "VH4954",
         "vehicle_model": "VolvoB7Rmrt"
     },
@@ -5361,6 +5625,10 @@
     },
     {
         "vehicle_id": "VH4964",
+        "vehicle_model": "VolvoB7Rmrt"
+    },
+    {
+        "vehicle_id": "VH4985",
         "vehicle_model": "VolvoB7Rmrt"
     },
     {
@@ -5788,6 +6056,14 @@
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
+        "vehicle_id": "JNS3753",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNS8433",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
         "vehicle_id": "JNU4976",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
@@ -5797,6 +6073,10 @@
     },
     {
         "vehicle_id": "JNV2241",
+        "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JNJ1145",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
@@ -5866,5 +6146,33 @@
     {
         "vehicle_id": "JQT6835",
         "vehicle_model": "CWL_SksbusSA12-300"
+    },
+    {
+        "vehicle_id": "JSD7561",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSK3645",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSK4308",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSK7317",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSK7322",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSP1236",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSU4730",
+        "vehicle_model": "CWL_YutongZK6126HG"
     }
 ]
