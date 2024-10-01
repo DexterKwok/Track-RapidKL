@@ -1652,6 +1652,14 @@
         "vehicle_model": "MercedesCBC1725"
     },
     {
+        "vehicle_id": "WPA104",
+        "vehicle_model": "MercedesCBC1725"
+    },
+    {
+        "vehicle_id": "WPB4401",
+        "vehicle_model": "MercedesCBC1725"
+    },
+    {
         "vehicle_id": "CDD1422",
         "vehicle_model": "ScaniaK250UB"
     },
@@ -6004,6 +6012,14 @@
         "vehicle_model": "VolvoBZL"
     },
     {
+        "vehicle_id": "JQD3304",
+        "vehicle_model": "CWL_ScaniaK250IB"
+    },
+    {
+        "vehicle_id": "JSF4453",
+        "vehicle_model": "CWL_SksbusLEC-300H"
+    },
+    {
         "vehicle_id": "JMS8762",
         "vehicle_model": "CWL_SksbusSA12-300"
     },
@@ -6148,6 +6164,26 @@
         "vehicle_model": "CWL_SksbusSA12-300"
     },
     {
+        "vehicle_id": "JQR3237",
+        "vehicle_model": "CWL_YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JQS7514",
+        "vehicle_model": "CWL_YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JQT6821",
+        "vehicle_model": "CWL_YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JRF5872",
+        "vehicle_model": "CWL_YutongZK6118HGA"
+    },
+    {
+        "vehicle_id": "JSD7540",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSD7561",
         "vehicle_model": "CWL_YutongZK6126HG"
     },
@@ -6160,6 +6196,10 @@
         "vehicle_model": "CWL_YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSK4312",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSK7317",
         "vehicle_model": "CWL_YutongZK6126HG"
     },
@@ -6168,11 +6208,23 @@
         "vehicle_model": "CWL_YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSK7324",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSP1236",
         "vehicle_model": "CWL_YutongZK6126HG"
     },
     {
+        "vehicle_id": "JSU4724",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
         "vehicle_id": "JSU4730",
+        "vehicle_model": "CWL_YutongZK6126HG"
+    },
+    {
+        "vehicle_id": "JSU4732",
         "vehicle_model": "CWL_YutongZK6126HG"
     }
 ]
