@@ -9024,7 +9024,7 @@
         "vehicle_pic_description": ""
     },
     {
-        "vehicle_id": "JQM4054",
+        "vehicle_id": "JQB9655",
         "vehicle_model": "CWL_ScaniaK250IB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -9036,7 +9036,25 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JQD3642",
+        "vehicle_model": "CWL_ScaniaK250IB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQM4054",
+        "vehicle_model": "CWL_ScaniaK250IB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JMY8406",
+        "vehicle_model": "CWL_ScaniaK310IB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JMX3032",
         "vehicle_model": "CWL_ScaniaK310IB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -9270,6 +9288,24 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PKY414",
+        "vehicle_model": "CWL_YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JRG479",
+        "vehicle_model": "CWL_YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JRJ7842",
+        "vehicle_model": "CWL_YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JQR3237",
         "vehicle_model": "CWL_YutongZK6118HGA",
         "vehicle_pic_url": "",
@@ -9277,6 +9313,12 @@
     },
     {
         "vehicle_id": "JQS7514",
+        "vehicle_model": "CWL_YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JQT5728",
         "vehicle_model": "CWL_YutongZK6118HGA",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -9301,6 +9343,12 @@
     },
     {
         "vehicle_id": "JSD7540",
+        "vehicle_model": "CWL_YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JSD7560",
         "vehicle_model": "CWL_YutongZK6126HG",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -9372,6 +9420,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JSN7064",
+        "vehicle_model": "CWL_YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JSQ4264",
         "vehicle_model": "CWL_YutongZK6126HG",
         "vehicle_pic_url": "",
@@ -9379,6 +9433,12 @@
     },
     {
         "vehicle_id": "JXJ1354",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXJ4602",
         "vehicle_model": "CWL_GoldenDragon",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
