@@ -2616,6 +2616,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PKX3214",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "PKX3221",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
@@ -2647,6 +2653,12 @@
     },
     {
         "vehicle_id": "PKX3289",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PKX3295",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -2737,6 +2749,12 @@
     },
     {
         "vehicle_id": "PKX3511",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PKY1266",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -3054,6 +3072,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PLN4507",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "PLN4508",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
@@ -3276,6 +3300,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PLQ4387",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "PLQ4404",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
@@ -3420,6 +3450,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PLV1662",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "PLV1675",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
@@ -3480,6 +3516,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PLV2785",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "PLV2797",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
@@ -3529,6 +3571,12 @@
     },
     {
         "vehicle_id": "PLV3057",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PLV3067",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -3631,6 +3679,12 @@
     },
     {
         "vehicle_id": "PLW5947",
+        "vehicle_model": "ScaniaK250UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PLW5953",
         "vehicle_model": "ScaniaK250UB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -5473,6 +5527,12 @@
     },
     {
         "vehicle_id": "PJF8334",
+        "vehicle_model": "ScaniaK270UB",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "PJF8344",
         "vehicle_model": "ScaniaK270UB",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
@@ -9589,6 +9649,12 @@
     },
     {
         "vehicle_id": "JSQ4264",
+        "vehicle_model": "CWL_YutongZK6126HG",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JTD3342",
         "vehicle_model": "CWL_YutongZK6126HG",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
