@@ -9456,6 +9456,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "PLL717",
+        "vehicle_model": "CWL_YutongZK6118HGA",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "PKY414",
         "vehicle_model": "CWL_YutongZK6118HGA",
         "vehicle_pic_url": "",
@@ -9667,6 +9673,90 @@
     },
     {
         "vehicle_id": "JXJ4602",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK2448",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK2452",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK3441",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK3448",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK3452",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK3461",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK3463",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK435",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK448",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK4863",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK4866",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK4868",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK4870",
+        "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXK9765",
         "vehicle_model": "CWL_GoldenDragon",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
