@@ -9228,6 +9228,12 @@
         "vehicle_pic_description": ""
     },
     {
+        "vehicle_id": "JNB4852",
+        "vehicle_model": "CWL_SksbusSA12-300",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
         "vehicle_id": "JNB4907",
         "vehicle_model": "CWL_SksbusSA12-300",
         "vehicle_pic_url": "",
@@ -9758,6 +9764,12 @@
     {
         "vehicle_id": "JXK9765",
         "vehicle_model": "CWL_GoldenDragon",
+        "vehicle_pic_url": "",
+        "vehicle_pic_description": ""
+    },
+    {
+        "vehicle_id": "JXM3790",
+        "vehicle_model": "CWL_FotonC8L",
         "vehicle_pic_url": "",
         "vehicle_pic_description": ""
     }
