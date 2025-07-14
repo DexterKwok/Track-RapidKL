@@ -4926,6 +4926,12 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "VAE7408",
+    "vehicle_model": "ScaniaK250UBmrt",
+    "vehicle_pic_url": "",
+    "vehicle_pic_description": ""
+  },
+  {
     "vehicle_id": "VAE7492",
     "vehicle_model": "ScaniaK250UBmrt",
     "vehicle_pic_url": "",
@@ -5689,6 +5695,12 @@
   },
   {
     "vehicle_id": "VM2846",
+    "vehicle_model": "ScaniaK250UBmrt",
+    "vehicle_pic_url": "",
+    "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "VX2856",
     "vehicle_model": "ScaniaK250UBmrt",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
