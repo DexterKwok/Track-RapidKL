@@ -955,63 +955,243 @@
   },
   {
     "vehicle_id": "RAPID419",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID420",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID421",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID422",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID423",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID424",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID425",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID426",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID427",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
     "vehicle_id": "RAPID428",
-    "vehicle_model": "Higer",
+    "vehicle_model": "HigerKLQ6129G",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "RAPID429",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID430",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID431",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID432",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID433",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID434",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID435",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID436",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID437",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID438",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID439",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID440",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID441",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID442",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID443",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID444",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID445",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID446",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID447",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID448",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID449",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID450",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID451",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID452",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID453",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID454",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID455",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID456",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID457",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "RAPID458",
+    "vehicle_model": "HigerKLQ6129G",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "WUU6645",
