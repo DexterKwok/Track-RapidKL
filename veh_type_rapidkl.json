@@ -9666,8 +9666,14 @@
     "vehicle_pic_description": ""
   },
   {
-    "vehicle_id": "JMX2894",
+    "vehicle_id": "JMX2637",
     "vehicle_model": "CWL_ScaniaK310IB",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "JMX2894",
+    "vehicle_model": "CWL_FotonC9",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
@@ -9738,6 +9744,12 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JMX6717",
+    "vehicle_model": "CWL_SksbusSA12-300",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JNB3245",
     "vehicle_model": "CWL_SksbusSA12-300",
     "vehicle_pic_url": "",
@@ -9798,6 +9810,12 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JNH2559",
+    "vehicle_model": "CWL_SksbusSA12-300",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JNJ807",
     "vehicle_model": "CWL_SksbusSA12-300",
     "vehicle_pic_url": "",
@@ -9814,6 +9832,12 @@
     "vehicle_model": "CWL_SksbusSA12-300",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JNS8559",
+    "vehicle_model": "CWL_SksbusSA12-300",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JNU4976",
@@ -9990,6 +10014,12 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "PKU717",
+    "vehicle_model": "CWL_YutongZK6118HGA",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "PKY414",
     "vehicle_model": "CWL_YutongZK6118HGA",
     "vehicle_pic_url": "",
@@ -10000,6 +10030,12 @@
     "vehicle_model": "CWL_YutongZK6118HGA",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JRF6478",
+    "vehicle_model": "CWL_YutongZK6118HGA",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JRG479",
@@ -10020,10 +10056,28 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JRN9574",
+    "vehicle_model": "CWL_YutongZK6118HGA",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "JRN7959",
+    "vehicle_model": "CWL_YutongZK6118HGA",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JQR3237",
     "vehicle_model": "CWL_YutongZK6118HGA",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JQR7187",
+    "vehicle_model": "CWL_YutongZK6118HGA",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JQS7514",
@@ -10060,6 +10114,12 @@
     "vehicle_model": "CWL_YutongZK6118HGA",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JQT736",
+    "vehicle_model": "CWL_YutongZK6118HGA",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JQU1480",
@@ -10320,6 +10380,12 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JXL5684",
+    "vehicle_model": "CWL_GoldenDragon",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JXL5685",
     "vehicle_model": "CWL_GoldenDragon",
     "vehicle_pic_url": "",
@@ -10332,40 +10398,22 @@
     "vehicle_pic_description": ""
   },
   {
-    "vehicle_id": "JXM1634",
-    "vehicle_model": "CWL_GoldenDragon",
-    "vehicle_pic_url": "",
-    "vehicle_pic_description": ""
-  },
-  {
-    "vehicle_id": "JXM1637",
-    "vehicle_model": "CWL_GoldenDragon",
-    "vehicle_pic_url": "",
-    "vehicle_pic_description": ""
-  },
-  {
-    "vehicle_id": "JXM1647",
-    "vehicle_model": "CWL_GoldenDragon",
-    "vehicle_pic_url": "",
-    "vehicle_pic_description": ""
-  },
-  {
-    "vehicle_id": "JXM2837",
-    "vehicle_model": "CWL_GoldenDragon",
-    "vehicle_pic_url": "",
-    "vehicle_pic_description": ""
-  },
-  {
-    "vehicle_id": "JXM2864",
-    "vehicle_model": "CWL_GoldenDragon",
-    "vehicle_pic_url": "",
-    "vehicle_pic_description": ""
-  },
-  {
     "vehicle_id": "JXM9614",
     "vehicle_model": "CWL_GoldenDragon",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JXM1634",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "JXM1637",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JXM1640",
@@ -10384,6 +10432,18 @@
     "vehicle_model": "CWL_FotonC9",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JXM1651",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
+    "vehicle_id": "JXM1653",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JXM1867",
@@ -10410,16 +10470,34 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JXM2837",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JXM2840",
     "vehicle_model": "CWL_FotonC9",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JXM2841",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JXM2854",
     "vehicle_model": "CWL_FotonC9",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JXM2864",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JXM2867",
@@ -10438,6 +10516,12 @@
     "vehicle_model": "CWL_FotonC9",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JXM2878",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   },
   {
     "vehicle_id": "JXM2894",
@@ -10476,6 +10560,12 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": null,
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JXM4858",
     "vehicle_model": "CWL_FotonC9",
     "vehicle_pic_url": "",
@@ -10488,9 +10578,21 @@
     "vehicle_pic_description": ""
   },
   {
+    "vehicle_id": "JXP8236",
+    "vehicle_model": "CWL_FotonC9",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
+  },
+  {
     "vehicle_id": "JWT3071",
     "vehicle_model": "CWL_FotonC10",
     "vehicle_pic_url": "",
     "vehicle_pic_description": ""
+  },
+  {
+    "vehicle_id": "JWU856",
+    "vehicle_model": "CWL_FotonC10",
+    "vehicle_pic_url": null,
+    "vehicle_pic_description": null
   }
 ]
